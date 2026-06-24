@@ -1,0 +1,16 @@
+
+Healthcare Drug Effectiveness Analysis
+
+Best Model:
+XG Boost
+
+Accuracy:
+69%
+
+Most Important Features:
+1. Treatment
+2. BP_Reduction
+3. Age
+
+Conclusion:
+Treatment and BP reduction are the major factors influencing patient recovery.
